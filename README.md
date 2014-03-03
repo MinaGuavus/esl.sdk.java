@@ -14,3 +14,6 @@ Try our sdk out by forking this repo or getting it from maven central.
     <version>10.1</version>
 </dependency>
 ```
+
+
+For more detail on using the sdk with e-signlive see our wiki: http://docs.e-signlive.com/doku.php?id=esl:e-signlive_getting_started
