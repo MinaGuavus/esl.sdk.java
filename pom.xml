@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.silanis.esl</groupId>
     <artifactId>esl-java-sdk</artifactId>
-    <version>10.6.8</version>
+    <version>10.6.9-SNAPSHOT</version>
     <modules>
         <module>tester</module>
         <module>sdk</module>
@@ -250,7 +250,7 @@
         <connection>scm:git:git@github.com:MinaSilanis/esl.model.git</connection>
         <developerConnection>scm:git:git@github.com:MinaSilanis/esl.sdk.java.git</developerConnection>
         <url>git@github.com:MinaSilanis/esl.sdk.java.git</url>
-      <tag>esl-java-sdk-10.6.8</tag>
+      <tag>version ${project.version}</tag>
   </scm>
 
     <developers>
