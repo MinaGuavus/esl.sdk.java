@@ -228,9 +228,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:silanis/esl.model.git</connection>
-        <developerConnection>scm:git:git@github.com:silanis/esl.sdk.java.git</developerConnection>
-        <url>git@github.com:silanis/esl.sdk.java.git</url>
+        <connection>scm:git:git@github.com:MinaSilanis/esl.model.git</connection>
+        <developerConnection>scm:git:git@github.com:MinaSilanis/esl.sdk.java.git</developerConnection>
+        <url>git@github.com:MinaSilanis/esl.sdk.java.git</url>
     </scm>
 
     <developers>
